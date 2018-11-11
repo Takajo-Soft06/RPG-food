@@ -7,7 +7,7 @@
 * 唐揚げ
 * 和菓子セット
 
-![梅おにぎり](https://1.bp.blogspot.com/-e_OqiPJdbVY/UylARcGwHCI/AAAAAAAAeRI/5WBqvePKMK0/s400/onigiri_ume.png =200x200)
+![梅おにぎり](https://www.irasutoya.com/2014/04/blog-post_3335.html=100x100)　![味噌汁](https://www.irasutoya.com/2018/02/blog-post_155.html =100x100)
 
 # スイーツエリア
 * ケーキ（苺,チョコ,抹茶,チーズ）
