@@ -21,14 +21,16 @@
 ![ケーキ](http://3.bp.blogspot.com/-ZRkAB2UIqe0/UgSMXRltjEI/AAAAAAAAXCc/O12xepeoB4Y/s180-c/sweets_shortcake.png =30x30)![フルーツパフェ](http://2.bp.blogspot.com/-4SSFZUa0ab4/Vg57ivCMfhI/AAAAAAAAyzQ/Pm4eBFxAaOc/s180-c/sweets_fruit_pafe.png =30x30)![クッキー](https://4.bp.blogspot.com/-3rhQkHdqwxs/WlLr5gh27QI/AAAAAAABJrA/J3URe4befs414SknDcTRBT5XletsFmYNgCLcBGAs/s180-c/thumbnail_cookie.jpg =30x30)![ドーナツ](https://1.bp.blogspot.com/-8uKf-5MrkfM/WhUigNwpv-I/AAAAAAABITM/3FhIFceCO5oP3wF6hjMwN7ijeaHzlCbWQCLcBGAs/s180-c/sweets_french_cruller_chocolate.png =30x30)![プリン](http://2.bp.blogspot.com/-aRx-jJQHsqQ/UgSMWvuXqYI/AAAAAAAAXCM/whshJPMqjxY/s180-c/sweets_purin.png 30x30)![ソフトクリーム](http://2.bp.blogspot.com/-JPI6dMKqipU/UaboANOVqsI/AAAAAAAAUNA/sxXN06IO72A/s180-c/thumbnail_softcream.jpg =30x30)
 
 # ファンタジーエリア
-* チーズフォンデュ　
-* ピザ　
-* オムライス　
-* ハンバーグ　
-* カレーライス　
+* チーズフォンデュ　/2000円
+* ピザ　/980円
+* オムライス　/800円
+* ハンバーグ　/780円
+* カレーライス　/650円
+
+![オムライス](http://1.bp.blogspot.com/-uu2ELAP5kkc/UgSMF_E5u1I/AAAAAAAAW78/MebPztVKjMA/s180-c/food_omurice.png =30x30)![ピザ](http://4.bp.blogspot.com/-SvHA8OvoyFU/UWya7q7KGzI/AAAAAAAAQiE/Dsd2NDPUF4U/s180-c/pizza_margherita.png =30x30)![チーズ](http://2.bp.blogspot.com/-zFx9t4eIR74/UxbLWa9jDtI/AAAAAAAAd8c/BXasOX40nPE/s180-c/fondu_cheese_food.png =30x30)![ハンバーグ](http://4.bp.blogspot.com/-mjz6nmo2Rgk/U6llP0sNOnI/AAAAAAAAhts/nFarNUiSz0o/s180-c/food_wafu_hamburg.png =30x30)![カレー](https://3.bp.blogspot.com/-4IdLwhW46Sg/WWNAjPttzOI/AAAAAAABFUU/GzsWCl2m4uISohy-kXP0cWj13IqKKXqoACLcBGAs/s180-c/food_curry_dorodoro.png =30x30)
 
 # ヒーローエリア
-* エナジードリンク　
-* サプリメント　
-* 生卵　
-* プロテイン　
+* エナジードリンク　/250円
+* サプリメント　/600円
+* 生卵　/1個50円
+* プロテイン　/300円
