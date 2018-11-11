@@ -35,3 +35,5 @@
 * サプリメント　/600円
 * 生卵　/1個50円
 * プロテイン　/300円
+
+![エナジー](https://4.bp.blogspot.com/-IkazUSDDSgI/Vz_w3dGx8kI/AAAAAAAA6uc/fWiat0hlYmgW23QTrIIQY9piit5cHKTtgCLcB/s180-c/drink_energy.png =30x30)![卵](https://4.bp.blogspot.com/-EowgjvAwVUc/V4SA7piKunI/AAAAAAAA8OQ/UrUmxC6eC_I7VJap1CnPCztsRNUyRqzGgCLcB/s180-c/egg_ware_white.png =30x30)
