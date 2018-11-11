@@ -26,8 +26,9 @@
 * オムライス　/800円
 * ハンバーグ　/780円
 * カレーライス　/650円
+* サラダ　/500円
 
-![オムライス](http://1.bp.blogspot.com/-uu2ELAP5kkc/UgSMF_E5u1I/AAAAAAAAW78/MebPztVKjMA/s180-c/food_omurice.png =30x30)![ピザ](http://4.bp.blogspot.com/-SvHA8OvoyFU/UWya7q7KGzI/AAAAAAAAQiE/Dsd2NDPUF4U/s180-c/pizza_margherita.png =30x30)![チーズ](http://2.bp.blogspot.com/-zFx9t4eIR74/UxbLWa9jDtI/AAAAAAAAd8c/BXasOX40nPE/s180-c/fondu_cheese_food.png =30x30)![ハンバーグ](http://4.bp.blogspot.com/-mjz6nmo2Rgk/U6llP0sNOnI/AAAAAAAAhts/nFarNUiSz0o/s180-c/food_wafu_hamburg.png =30x30)![カレー](https://3.bp.blogspot.com/-4IdLwhW46Sg/WWNAjPttzOI/AAAAAAABFUU/GzsWCl2m4uISohy-kXP0cWj13IqKKXqoACLcBGAs/s180-c/food_curry_dorodoro.png =30x30)
+![オムライス](http://1.bp.blogspot.com/-uu2ELAP5kkc/UgSMF_E5u1I/AAAAAAAAW78/MebPztVKjMA/s180-c/food_omurice.png =30x30)![ピザ](http://4.bp.blogspot.com/-SvHA8OvoyFU/UWya7q7KGzI/AAAAAAAAQiE/Dsd2NDPUF4U/s180-c/pizza_margherita.png =30x30)![チーズ](http://2.bp.blogspot.com/-zFx9t4eIR74/UxbLWa9jDtI/AAAAAAAAd8c/BXasOX40nPE/s180-c/fondu_cheese_food.png =30x30)![ハンバーグ](http://4.bp.blogspot.com/-mjz6nmo2Rgk/U6llP0sNOnI/AAAAAAAAhts/nFarNUiSz0o/s180-c/food_wafu_hamburg.png =30x30)![カレー](https://3.bp.blogspot.com/-4IdLwhW46Sg/WWNAjPttzOI/AAAAAAABFUU/GzsWCl2m4uISohy-kXP0cWj13IqKKXqoACLcBGAs/s180-c/food_curry_dorodoro.png =30x30)![サラダ](https://3.bp.blogspot.com/-XZ1moV82En8/WIW-SKr-qTI/AAAAAAABBUQ/V1jV0m6s0T4UOhnUngoDcLMJECoP6MDzQCLcB/s180-c/salad_yamamori.png =30x30)
 
 # ヒーローエリア
 * エナジードリンク　/250円
