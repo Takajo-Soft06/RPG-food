@@ -7,7 +7,7 @@
 * 唐揚げ
 * 和菓子セット
 
-![梅おにぎり](http://1.bp.blogspot.com/-_AdyMxiGs9Y/U5hUjWHIWgI/AAAAAAAAhLQ/0NEw-OSTXdw/s180-c/onigiri_yukari.png =50x50)![味噌汁](https://1.bp.blogspot.com/-fifqRiSdBCw/Wm1ymCJ6LaI/AAAAAAABJ6M/JPpUqUOW7mEOn9fTGunRwAQ961xDuIIuQCLcBGAs/s180-c/food_misoshiru_toufu_wakame.png =50x50)
+![梅おにぎり](http://1.bp.blogspot.com/-e_OqiPJdbVY/UylARcGwHCI/AAAAAAAAeRI/5WBqvePKMK0/s180-c/onigiri_ume.png =50x50)![味噌汁](https://1.bp.blogspot.com/-fifqRiSdBCw/Wm1ymCJ6LaI/AAAAAAABJ6M/JPpUqUOW7mEOn9fTGunRwAQ961xDuIIuQCLcBGAs/s180-c/food_misoshiru_toufu_wakame.png =50x50)
 
 # スイーツエリア
 * ケーキ（苺,チョコ,抹茶,チーズ）
